@@ -1,3 +1,3 @@
 # Arduino-Sketches
 Arduino stuff
-#Arduino code from basic shit to projects
+#Arduino code from basic shite to specific projects
